@@ -30,4 +30,5 @@ detect and quantify missing values
 use the 3 different mechanisms of missing data introduction
 
 
-Note: 2 different datasets are used in this notebook
+Note: 2 different datasets are used in this notebook.
+make sure they are downloaded
