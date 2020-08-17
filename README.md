@@ -4,7 +4,7 @@ Missing data, or missing values, occur when __no data__ / __no value__ is stored
 
 ### Why is data missing?
 
-The source of missing data can be very different. like:
+The reason of missing data can be very different. like:
 
 - A value is missing because it was forgotten, lost or not stored properly
 - For a certain observation, the value does not exist
